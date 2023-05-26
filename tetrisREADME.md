@@ -1,3 +1,5 @@
+![image](https://github.com/TheLordPasta/Tetris/assets/100772190/c6e7223f-79c4-45c8-a2ed-d17ed83ff98d)
+
 # Projects-i-made-on-visual-studio
 # Tetris
 Tetris is a Windows Forms C# Project of the "Tetris" Game, with a few additions: diagonal shape, "Like" shape, and various shapes and colors.
